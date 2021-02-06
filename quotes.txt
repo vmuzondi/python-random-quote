@@ -12,3 +12,6 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+Life sucks, let it be
+You can always do better
+I'm great, now leave me alone
